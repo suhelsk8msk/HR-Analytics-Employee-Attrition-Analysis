@@ -72,7 +72,6 @@ The analysis covers employee demographics, compensation, job satisfaction, work-
 
 ### Version Control
 
-- Git
 - GitHub
 
 ---
@@ -380,6 +379,6 @@ This project demonstrates an end-to-end HR analytics workflow using Python, SQL,
 
 ## Author
 
-**Suhel**
+**Mohammad Suhel**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
