@@ -310,19 +310,19 @@ KPIs:
 
 ## Attrition Analysis
 
-![Attrition Analysis](Dashboard%20Images/Attrition_Analysis.png)
+![Attrition Analysis](Dashboard%20Images/Attrition%20Analysis.png)
 
 ---
 
 ## Employee Satisfaction
 
-![Employee Satisfaction](Dashboard%20Images/Employee_Satisfaction.png)
+![Employee Satisfaction](Dashboard%20Images/Employee%20Satisfaction.png)
 
 ---
 
 ## Salary Analysis
 
-![Salary Analysis](Dashboard%20Images/Salary_Analysis.png)
+![Salary Analysis](Dashboard%20Images/Salary%20Analysis.png)
 
 ---
 
