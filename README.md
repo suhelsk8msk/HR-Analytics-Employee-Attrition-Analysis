@@ -24,11 +24,11 @@ The analysis covers employee demographics, compensation, job satisfaction, work-
 ## Dataset Information
 
 | Metric | Value |
-|----------|----------|
+|---------|----------|
 | Total Employees | 1470 |
 | Total Features | 35+ |
 | Target Variable | Attrition |
-| Data Type | HR Employee Data |
+| Data Type| HR Employee Data |
 
 ### Key Attributes
 
