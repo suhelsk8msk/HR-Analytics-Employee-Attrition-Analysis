@@ -322,7 +322,7 @@ KPIs:
 
 ## Salary Analysis
 
-![Salary Analysis](Dashboard%20Images/Salary%20Analysis.png)
+![Salary_Analysis](Dashboard%20Images/Salary_Analysis.png)
 
 ---
 
