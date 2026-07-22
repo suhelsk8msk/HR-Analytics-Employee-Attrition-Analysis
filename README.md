@@ -304,7 +304,7 @@ KPIs:
 
 ## Executive Summary
 
-![Executive Summary](Dashboard%20Images/Executive%20Summary.png)
+![Executive_Summary](Dashboard%20Images/Executive_Summary.png)
 
 ---
 
